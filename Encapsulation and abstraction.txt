@@ -1,0 +1,7 @@
+Encapsulation is one of concepts in object-oriented programming and it is the packing of data and functions that work on that data within a single object. 
+By doing so, you can hide the internal state of the object from the outside. 
+This is known as information hiding.
+
+
+
+Abstraction is one of concepts in object-oriented programming and it is used to hide the background details or any unnecessary implementation.

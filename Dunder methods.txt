@@ -1,0 +1,12 @@
+Dunder methods are names preceded and followed by a double underscore and also called magic methods 
+               and can help override functionality for built-in functions for custom classes
+
+examples of dunder methods:
+       __init__()
+       __add__()
+       __sub__()
+       __xor__()
+       __str__()
+       __and__()
+       __dir__()
+and so on 

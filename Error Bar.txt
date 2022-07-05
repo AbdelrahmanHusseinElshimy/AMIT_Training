@@ -1,0 +1,9 @@
+The error bars function is used as a graphical optimization that depicts the variance of data plotted on a Cartesian graph. 
+Error bars can be applied to graphs to provide an additional layer of detail to the data presented.
+
+Error bars help you determine the estimated error or uncertainty to give a general idea of ​​how accurate the measurement is using the marks on the original graph 
+and its data points. To visualize these information error bars, working by plotting lines extending from the center of the plotted data point or the edge using 
+bar charts, the length of the error bar helps reveal the uncertainty in the data point.
+
+Error bars always run parallel to a quantity from the scale axis so that they can be displayed either vertically or horizontally depending on whether 
+the quantitative scale is on the y axis or the x axis if there are two scales and two pairs of arrow bars can be used for both axes.
